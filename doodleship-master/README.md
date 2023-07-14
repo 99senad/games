@@ -4,12 +4,6 @@ A simple endless "Doodle Ship" game made using "ONLY" HTML, CSS and JavaScript. 
 ### About
 In this game you have to control a spaceship, while dodging blocks falling. Your score is increased when a block reaches the bottom.
 
-### ScreenShots
-
-<img src = "/Screenshots/capture3.PNG" width="33%"></img>
-<img src = "/Screenshots/capture.PNG" width="33%"></img>
-<img src = "/Screenshots/capture2.PNG" width="33%"></img>
-
 ### Features
 This game is 100% responsive to any screen size, so dont worry about the screen size of your device. Also, the code is extremely simple to understand, learn and edit.
 
