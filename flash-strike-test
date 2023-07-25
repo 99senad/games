@@ -1,0 +1,6 @@
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<object width="100%" height="100%">
+    <param name="movie" value="https://99senad.github.io/games/flash-strike.swf">
+    <embed src="https://99senad.github.io/games/flash-strike.swf">
+    </embed>
+</object>
