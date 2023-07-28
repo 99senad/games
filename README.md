@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<body style="background-color:FireBrick;">
+<body style="background-color:FireBrick;" style="color:black;>
 
-<img src="https://lh4.googleusercontent.com/wBFr68UoQ4lLeh5J-8k8-dWdztv8q8akKoE0BzfdN13rurz0a8pHuhwucpnebGJGFlS85KlolWEEe4F0YJLtZLc=w16383" alt="Senad's Unblocked Logo" width="100px" height="100px">
+<meta http-equiv="refresh" content="5; URL=https://www.senad.me" />
 
-<h1 style="color:black;">Welcome!</h1>
-
-<h2 style="color:black;">Want to play games?</h2>
-
-<b><a style="color:white;" href="https://www.senad.me/" target="_blank">Click here!</a></b>
-
-</body>
-</html>
+<br><br><b> Welcome to Senad's Unblocked Games!<br>
+You will be redirected in 5 seconds.<br><br>
+If not, please click here: <a href="https://www.senad.me/">www.senad.me</a></b>
