@@ -1,4 +1,4 @@
-<body style="background-color:FireBrick;" style="color:black;>
+<body style="background-color:FireBrick;">
 
 <meta http-equiv="refresh" content="5; URL=https://www.senad.me" />
 
