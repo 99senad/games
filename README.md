@@ -7,7 +7,7 @@
 
 <h2 style="color:black;">Want to play games?</h2>
 
-<a style="color:white;" href="https://www.senad.me/" target="_blank">Click here!</a>
+<b><a style="color:white;" href="https://www.senad.me/" target="_blank">Click here!</a></b>
 
 </body>
 </html>
